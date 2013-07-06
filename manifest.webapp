@@ -1,0 +1,10 @@
+{
+	"name": "helloWorld",
+	"description":"Nuestro primer Hello World",
+	"launch_pad": "/index.html",
+	"developer": {
+		"name": "FoxOS Dev",
+		"url": "http://foxosdev.es"
+	},
+	"default locale": "es"
+}
