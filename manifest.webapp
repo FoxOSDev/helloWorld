@@ -1,7 +1,7 @@
 {
 	"name": "helloWorld",
 	"description":"Nuestro primer Hello World",
-	"launch_pad": "/index.html",
+	"launch_path": "/index.html",
 	"developer": {
 		"name": "FoxOS Dev",
 		"url": "http://foxosdev.es"
